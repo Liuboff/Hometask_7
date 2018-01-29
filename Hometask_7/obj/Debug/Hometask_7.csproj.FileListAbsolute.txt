@@ -1,0 +1,13 @@
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\Hometask_7.exe.config
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\Hometask_7.exe
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\Hometask_7.pdb
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\EntityFramework.dll
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\EntityFramework.SqlServer.dll
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\EntityFramework.xml
+D:\CSharp\source\repos\Hometask_7\Hometask_7\bin\Debug\EntityFramework.SqlServer.xml
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.csprojResolveAssemblyReference.cache
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.csproj.CoreCompileInputs.cache
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.exe
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.pdb
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.Migrations.InitialCreate.resources
+D:\CSharp\source\repos\Hometask_7\Hometask_7\obj\Debug\Hometask_7.csproj.GenerateResource.Cache
